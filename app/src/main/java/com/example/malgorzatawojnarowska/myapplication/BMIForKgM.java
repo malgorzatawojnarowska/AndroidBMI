@@ -20,6 +20,6 @@ public class BMIForKgM extends BMI {
 
     @Override
     protected boolean isDataValid() {
-        return getMass() > 50 && getHeight() > 100 && getMass() < 200 && getHeight() < 260;
+        return getMass() > 20 && getHeight() > 0.5 && getMass() < 200 && getHeight() < 2.6;
     }
 }
