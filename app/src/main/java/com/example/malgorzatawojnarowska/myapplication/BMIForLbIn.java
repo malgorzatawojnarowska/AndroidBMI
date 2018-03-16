@@ -20,6 +20,6 @@ public class BMIForLbIn extends BMI{
 
     @Override
     protected boolean isDataValid() {
-        return getMass() > 0 && getHeight() > 0 && getMass() < 440 && getHeight() < 102;
+        return getMass() > 110 && getHeight() > 40 && getMass() < 440 && getHeight() < 102;
     }
 }
