@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="massKg">Mass [kg]</string>
+    <string name="heightM">Height [cm]</string>
+    <string name="massLb">Mass [lb]</string>
+    <string name="heightIn">Height [in]</string>
+    <string name="count">Count</string>
+    <string name="author">O Autorze</string>
+    <string name="bmiresult">Your BMI</string>
+    <string name="novalidval">No valid values</string>
+    <string name="omnie">To ja! Jestem Małgorzata Wojarowska i stworzyłam tę piękną aplikację.\nBuziaczki dla moich fanów!</string>
+</resources>
